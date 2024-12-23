@@ -2,6 +2,7 @@
 ## Portfolio
 
 ### Hello, I'm [Your Name] 👋
+![Project Screenshot](assets/IMG-20240313-WA0013.png)
 
 I am passionate about technology and problem-solving. Here's a glimpse of my work:
 
